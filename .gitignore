@@ -1,0 +1,7 @@
+#this is comment
+#ignore all logfiles
+*.logs
+
+#ignore README file
+README.md
+
